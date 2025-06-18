@@ -1,6 +1,13 @@
 # HmcSha1 Client
 > 我是一个封装 HmcSha1 签名算法的 java 客户端。
-
+## maven 坐标
+```xml
+<dependency>
+    <groupId>io.github.thlws</groupId>
+    <artifactId>tob-gateway-client</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 ## 参数签名使用示例
 ```java
 @Test

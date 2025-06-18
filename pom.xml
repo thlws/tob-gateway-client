@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>gateway-client</name>
     <groupId>io.github.thlws</groupId>
     <artifactId>tob-gateway-client</artifactId>
